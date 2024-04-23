@@ -32,7 +32,7 @@ After installation, add the shortcode `[quote_generator]` to any post, page, or 
 
 ## Video Demo
 
-See the plugin in action [here](Screenshots/wp-plugin-in-use-1.mp4).
+[![Watch the video](https://img.youtube.com/vi/iNSTUi9rhqk/maxresdefault.jpg)](https://www.youtube.com/watch?v=iNSTUi9rhqk)
 
 ## License
 
